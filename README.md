@@ -80,7 +80,7 @@ Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslese
 
 ![Bild](/pic/BM08.png)
 
-Schritt 11: Die Räder auf die Getriebemotore stecken und verschrauben.
+- Schritt 11: Die Räder auf die Getriebemotore stecken und verschrauben.
 
 - Schritt 12: Zweiter Funktionstest.
 Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslesen und im Browser den WEB-Server aufrufen.
