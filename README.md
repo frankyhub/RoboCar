@@ -48,7 +48,7 @@ Die Platinenhalter tragen den ESP32 und die H-Brücke. Sie werden auf die Bodenp
 
 - Schritt 3: Die vier Getriebemotore auf die Grundplatte montieren
 
-  ![Bild](/pic/BM02.png)
+![Bild](/pic/BM02.png)
 
 ![Bild](/pic/BM03.png)
 
