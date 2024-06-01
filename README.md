@@ -43,12 +43,10 @@ Die Platinenhalter tragen den ESP32 und die H-Brücke. Sie werden auf die Bodenp
 
 ![Bild](/pic/BM01.png)
 
-- Schritt 3: Je sechs Löcher D=4mm für die M3 Abstandshalter in die Deck- und Bodenplatte bohren.
-Deck- und Bodenplatte beim Bohren übereinander legen.
 
 ![Bild](/pic/BM02.png)
 
-- Schritt 4: Die vier Getriebemotore auf die Grundplatte montieren
+- Schritt 3: Die vier Getriebemotore auf die Grundplatte montieren
 
 ![Bild](/pic/BM03.png)
 
