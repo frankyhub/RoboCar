@@ -1,7 +1,7 @@
 <a name="oben"></a>
 
 # RoboCar
-ESP32 Car - WEB-Server
+ESP32 Car - WEB-Server - feste IP-Adresse - Speed-Controll
 
 ## Story
 Diese Anleitung beschreibt ein, von einem WEB-Server gesteuertes Fahrzeug. Der Antrieb des RoboCars erfolgt über vier Getriebe-Motore, als Spannungversorgung dienen zwei Akkus. Das Herzstrück ist ein ESP32 NodeMCU. Die Träger-Elemente werden aus zwei 4mm ABS-Platten gelasert. Optional kann das RoboCar um eine Hindernis-Erkennung und eine IR-Fernsteuerung erweitert werden. Die Montage eines Servos, eines Ultraschall-Sensors und eines IR-Empfängers ist vorgesehen.
