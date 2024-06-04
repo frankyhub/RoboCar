@@ -1,10 +1,10 @@
 <a name="oben"></a>
 
-# BotMover
+# RoboCar
 ESP32 Car - WEB-Server
 
 ## Story
-Diese Anleitung beschreibt ein, von einem WEB-Server gesteuertes Fahrzeug. Der Antrieb des BotMovers erfolgt über vier Getriebe-Motore, als Spannungversorgung dienen zwei Akkus. Das Herzstrück ist ein ESP32 NodeMCU. Die Träger-Elemente werden aus zwei 4mm ABS-Platten gelasert. Optional kann der BotMover um eine Hindernis-Erkennung und eine IR-Fernsteuerung erweitert werden. Die Montage eines Servos, eines Ultraschall-Sensors und eines IR-Empfängers ist vorgesehen.
+Diese Anleitung beschreibt ein, von einem WEB-Server gesteuertes Fahrzeug. Der Antrieb des RoboCars erfolgt über vier Getriebe-Motore, als Spannungversorgung dienen zwei Akkus. Das Herzstrück ist ein ESP32 NodeMCU. Die Träger-Elemente werden aus zwei 4mm ABS-Platten gelasert. Optional kann das RoboCar um eine Hindernis-Erkennung und eine IR-Fernsteuerung erweitert werden. Die Montage eines Servos, eines Ultraschall-Sensors und eines IR-Empfängers ist vorgesehen.
 Wird kein Ultraschallsensor oder IR-Empfänger montiert, reicht eine Bodenplatte für die Montage der Bauteile aus. Für die Bodenplatte kann auch eine 4mm Sperrholzplatte verwendet werden.
 
 ## Hardware
