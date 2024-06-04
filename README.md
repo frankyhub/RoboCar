@@ -71,6 +71,8 @@ Die Anschlüsse zum ESP32 mit Platinenstecker verdrahten.
 
 ![Bild](/pic/BM07.png)
 
+![Bild](/pic/BM11.png)
+
 - Schritt 8: Das Programm in den ESP32 laden.
 
 - Schritt 9: Erster Funktionstest.
